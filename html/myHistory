@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Who is Purple?</title>
+  <meta name="description" content="Welcome to Purple's portfolio!">
+  <link rel="icon" type="image/x-icon" href="./images/Marina.png">
+  <link rel="stylesheet" href="../css/reset.css">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap" rel="stylesheet">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script type="text/javascript" src="https://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1642439242&amp;"></script>
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <span class="logo">
+        <img src="../images/Marina.png" alt="Marina Murasaki" height="50" width="50">
+      </span>
+    </div>
+
+    <div class="wsite-menu">
+      <ul class="menu">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="#">My History</a></li>
+        <li><a href="myAdventure.html">My Adventure</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <section class="timeline">
+    <div class="event">
+      <div class="event-date">1997</div>
+      <div class="event-description">
+        <h2>Birth</h2>
+        <p>I was born in a small town, Tokyo.</p>
+      </div>
+    </div>
+    
+    <div class="event">
+      <div class="event-date">2016</div>
+      <div class="event-description">
+        <h2>High School Graduation</h2>
+        <p>I graduated from Showa Daiichi Gakuen high school.</p>
+      </div>
+    </div>
+    
+    <div class="event">
+      <div class="event-date">2016</div>
+      <div class="event-description">
+        <h2>University entering ceremony</h2>
+        <p>I entered Dokkyo University.</p>
+      </div>
+    </div>
+
+    <div class="event">
+      <div class="event-date">2019</div>
+      <div class="event-description">
+        <h2>Dinsey Internship</h2>
+        <p>I joined the internship at Walt DIsney World in Florida, USA.</p>
+      </div>
+    </div>
+
+    <div class="event">
+      <div class="event-date">2021</div>
+      <div class="event-description">
+        <h2>University graduation</h2>
+        <p>I graduated from Dokkyo UNiversity.</p>
+      </div>
+    </div>
+
+    <div class="event">
+      <div class="event-date">2021</div>
+      <div class="event-description">
+        <h2>Work</h2>
+        <p>I worked at Takasago Intl. Corporation as an SE.</p>
+      </div>
+    </div>
+
+    <div class="event">
+      <div class="event-date">2022</div>
+      <div class="event-description">
+        <h2>Decide to come to Australia</h2>
+        <p>I decided to come to Australia to study IT and english more for my career pass.</p>
+      </div>
+    </div>
+    
+  </section>
+
+  <footer>
+    <div class="upper-footer">
+      <a href="https://www.linkedin.com/in/marina-murasaki-5862271a8/"><img src="../images/linkedin.png" alt="Linkedin"></a>
+      <a href=""><img src="../images/github.png" alt="github"></a>
+    </div>
+    <div class="bottom-footer">
+      <p>© 2023 Marina.M</p>
+    </div>
+  </footer>
+
+  <script src="../js/script.js"></script>
+  
+</body>
+</html>
